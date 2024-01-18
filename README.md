@@ -10,5 +10,9 @@ if the number is divisible by 5 print Buzz;
 if the number is divisible by 3 and 5 (15) print FizzBuzz;
 else, print the number.
 
+## Attribution
+
+A battery of legal analysts have reviewed this readme and determined after an exhaustive and lengthy review process that we need to inform you that this project was completely inspired by:  https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
+
 ## Contributions
 Contributions will be allowed from a select group of only the most solid developers that submit to a series of interviews with esoteric, non-technically relevant, though uber-leet-trivia questions.
